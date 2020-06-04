@@ -1,9 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34a42b24-2176-4680-8d6b-9af94ca3340a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/Source/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/icon-fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/icon-fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/icon-fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/icon-fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/icon-fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/icon-fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/icon-fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/icon-fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/add.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/banner-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/blog/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/blog/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/blog/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/client-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/domain-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/faq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/footer-thumb/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/footer-thumb/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/footer-thumb/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/icons/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/icons/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/icons/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/map-marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/milestones-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/page-top-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/review/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/section-title-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/team/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/team/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/team/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/team/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/circle-progress.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z04PEmwg3qMbnEijV2NL0tthAU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/template" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/template" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34a42b24-2176-4680-8d6b-9af94ca3340a" name="Default Changelist" comment="" />
+      <created>1583962652663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583962652663</updated>
+      <workItem from="1583962659444" duration="212000" />
+      <workItem from="1588967191707" duration="992000" />
+      <workItem from="1590871344552" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
 </project>
